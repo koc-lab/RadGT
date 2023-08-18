@@ -5,5 +5,5 @@
 # DATASET
 
 To be able to use the dataset, please use RadarScenes and nuScenes dataset.
-For RAdarScenes dataset: https://radar-scenes.com/
+For RadarScenes dataset: https://radar-scenes.com/
 For nuScenes dataset: https://www.nuscenes.org/nuscenes
